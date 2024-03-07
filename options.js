@@ -8,12 +8,12 @@ const defaultOptions = {
 
 let options = {
   ...defaultOptions,
-  ...JSON.parse(localStorage.getItem("just-some-options") ?? "{}")
+  ...JSON.parse(localStorage.getItem("just-some-normal-options") ?? "{}")
 };
 
 function updateOption(opt, val) {
   app.options[opt] = val;
-  localStorage.setItem("just-some-options", JSON.stringify(options));
+  localStorage.setItem("just-some-normal-options", JSON.stringify(options));
   if (opt == "darkMode") {
     if (val)
       document.getElementById("theme").innerText = `
