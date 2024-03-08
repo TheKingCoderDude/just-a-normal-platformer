@@ -4,17 +4,13 @@ An attempt from me to re-create a platformer.
 
 ## Play It
 
-- [Main Game](https://thetastypi.github.io/just-a-platformer/index.html)
-- [On CoolMathGames](https://www.coolmathgames.com/0-just-a-platformer)
-- [Level Editor](https://thetastypi.github.io/just-a-platformer/levelEditor/index.html)
+You can play dis on  my  website.
 
 ## Credits
 
 ### Code Contributors
 
-- [TheTastyPi](https://thetastypi.github.io/)
-- [aShorterName](https://github.com/aShorterName)
-- [Yhvr](https://yhvr.me/)
+Me... Just me...
 
 ### Libraries
 
